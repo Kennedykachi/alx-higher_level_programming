@@ -1,5 +1,5 @@
-
-dule to print status code """
+#!/usr/bin/python3
+""" Module to print status code """
 import sys
 
 
