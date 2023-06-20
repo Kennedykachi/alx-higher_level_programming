@@ -1,1 +1,1 @@
-For the moment, and for learning all basic concepts of this language, we will do some scripting. After, we will make our AirBnB project dynamic by using Javascript and JQuery
+alx-higher_level_programming/0x12-javascript-warm_up
